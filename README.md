@@ -4,7 +4,7 @@
 Inquery keywords (words or sentences) to bing dictionary (both English and Chinese are supported)
 `python bing.py keywords`
 
-If you invoke at the first time, you will be asked wether to creat a local cache at /home/hxd (**you should replace hxd with your own username**). Only the sencond and following invoking of this program will output translations and example sentences.
+If you invoke at the first time, you will be asked wether to creat a local cache at your home directory. Only the sencond and following invoking of this program will give translations and example sentences.
 
 ## recommend configuration 
 First, you need to add alias to your terminal. Let's take zsh as an example: 
